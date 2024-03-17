@@ -70,7 +70,7 @@ In conclusion, the login page for Navigusto demonstrates strong design and funct
 | ----------------- | ------------------------------------------------------------------ |
 | BLACK | ![#000000](https://via.placeholder.com/10/0a192f?text=+) #000000 |
 | WHITE| ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) #ffffff |
-| TANGERINE | ![#FBFADA](https://via.placeholder.com/10/FBFADA?text=+) #FBFADA |
+| PASTEL CREAM | ![#FBFADA](https://via.placeholder.com/10/FBFADA?text=+) #FBFADA |
 | LIGHT GRAY | ![#ffffff52](https://via.placeholder.com/10/ffffff52?text=+) #ffffff52 |
 
 
